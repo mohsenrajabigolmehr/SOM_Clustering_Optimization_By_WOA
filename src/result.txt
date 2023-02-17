@@ -1,0 +1,399 @@
+
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS D:\7.PythonProjects\Mohammadi> & "C:/Program Files/Python36/python.exe" d:/7.PythonProjects/Mohammadi/src/WOAClustering.py
+indexData: 998, User_ID: 1853869
+ Batch Number :  1
+InitAgents
+indexData: 1997, User_ID: 1115759
+ Batch Number :  2
+indexData: 2996, User_ID: 1553171
+ Batch Number :  3
+indexData: 3995, User_ID: 4027242
+indexData: 4994, User_ID: 6467463
+ Batch Number :  5
+indexData: 5993, User_ID: 2570317
+ Batch Number :  6
+indexData: 6992, User_ID: 1097554
+ Batch Number :  7
+indexData: 7991, User_ID: 4352420
+ Batch Number :  8
+indexData: 8990, User_ID: 1206070
+ Batch Number :  9
+indexData: 9989, User_ID: 4749353
+ Batch Number :  10
+For n_clusters = 3 The silhouette_score is : 0.4902433926895059
+For n_clusters = 3 The bouldin_score is : 9.316591865729682 lower Is better
+For n_clusters = 3 The calinski_harabasz_score is : 20.64060736199965 higher Is better
+End Of WOA Clustering
+PS D:\7.PythonProjects\Mohammadi> & "C:/Program Files/Python36/python.exe" d:/7.PythonProjects/Mohammadi/src/SOM_Clustering_Optimization_By_WOA.py
+init random weights ... [[0.50949388 2.81418525 2.15846072 ... 4.43595823 3.3486589  2.1392451 ]
+ [3.70389191 2.67322471 3.02065767 ... 0.83690823 2.7012826  3.88116115]
+ [1.58974606 1.85117617 2.46748832 ... 0.10044177 3.51779647 3.66361992]
+ ...
+ [0.96674892 0.56740885 3.35246618 ... 1.54911161 0.32608252 0.26309119]
+ [0.29165622 1.80500983 3.81042264 ... 3.68364987 1.82884032 0.40214534]
+ [1.11024516 3.24363994 1.26568851 ... 2.64578357 3.83636946 0.26928412]]
+indexData: 998, User_ID: 1080353
+ Batch Number:  1
+(15, 12773)
+_sols :  (10, 15, 12773)
+_best_solutions :  (1, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (2, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (3, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (4, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (5, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (6, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (7, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (8, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (9, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (10, 2)
+indexData: 1997, User_ID: 8649908
+ Batch Number:  2
+(15, 12773)
+_sols :  (10, 15, 12773)
+_best_solutions :  (1, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (2, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (3, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (4, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (5, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (6, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (7, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (8, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (9, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (10, 2)
+indexData: 2996, User_ID: 5071010
+ Batch Number:  3
+(15, 12773)
+_sols :  (10, 15, 12773)
+_best_solutions :  (1, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (2, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (3, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (4, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (5, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (6, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (7, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (8, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (9, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (10, 2)
+indexData: 3995, User_ID: 1144482
+ Batch Number:  4
+(15, 12773)
+_sols :  (10, 15, 12773)
+_best_solutions :  (1, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (2, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (3, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (4, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (5, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (6, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (7, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (8, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (9, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (10, 2)
+indexData: 4994, User_ID: 1037758
+ Batch Number:  5
+(15, 12773)
+_sols :  (10, 15, 12773)
+_best_solutions :  (1, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (2, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (3, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (4, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (5, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (6, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (7, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (8, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (9, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (10, 2)
+indexData: 5993, User_ID: 2958172
+ Batch Number:  6
+(15, 12773)
+_sols :  (10, 15, 12773)
+_best_solutions :  (1, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (2, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (3, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (4, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (5, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (6, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (7, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (8, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (9, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (10, 2)
+indexData: 6992, User_ID: 3873942
+ Batch Number:  7
+(15, 12773)
+_sols :  (10, 15, 12773)
+_best_solutions :  (1, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (2, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (3, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (4, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (5, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (6, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (7, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (8, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (9, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (10, 2)
+indexData: 7991, User_ID: 1103206
+ Batch Number:  8
+(15, 12773)
+_sols :  (10, 15, 12773)
+_best_solutions :  (1, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (2, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (3, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (4, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (5, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (6, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (7, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (8, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (9, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (10, 2)
+indexData: 8990, User_ID: 4841426
+ Batch Number:  9
+(15, 12773)
+_sols :  (10, 15, 12773)
+_best_solutions :  (1, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (2, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (3, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (4, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (5, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (6, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (7, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (8, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (9, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (10, 2)
+indexData: 9989, User_ID: 6189881
+ Batch Number:  10
+(15, 12773)
+_sols :  (10, 15, 12773)
+_best_solutions :  (1, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (2, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (3, 2)
+_sols :  (10, 15, 12773)
+_sols :  (10, 15, 12773)
+_best_solutions :  (5, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (6, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (7, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (8, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (9, 2)
+_sols :  (10, 15, 12773)
+_best_solutions :  (10, 2)
+For n_clusters = 15 The silhouette_score is : -0.3284409524987551
+For n_clusters = 15 The bouldin_score is : 35.36542811606771 lower Is better
+For n_clusters = 15 The calinski_harabasz_score is : 9.285484594114667 higher Is better
+End Of SOM Clustering
+PS D:\7.PythonProjects\Mohammadi> & "C:/Program Files/Python36/python.exe" d:/7.PythonProjects/Mohammadi/src/WOAClustering.py
+indexData: 998, User_ID: 3179438
+ Batch Number :  1
+InitAgents
+indexData: 1997, User_ID: 1104273
+ Batch Number :  2
+indexData: 2996, User_ID: 1780243
+ Batch Number :  3
+indexData: 3995, User_ID: 4097976
+indexData: 4994, User_ID: 7752933
+ Batch Number :  5
+indexData: 5993, User_ID: 5515261
+ Batch Number :  6
+indexData: 6992, User_ID: 5162796
+ Batch Number :  7
+indexData: 7991, User_ID: 2585526
+ Batch Number :  8
+indexData: 8990, User_ID: 3155528
+ Batch Number :  9
+indexData: 9989, User_ID: 2415997
+ Batch Number :  10
+For n_clusters = 5 The silhouette_score is : 0.4749122526082905
+For n_clusters = 5 The bouldin_score is : 8.457747415947203 lower Is better
+For n_clusters = 5 The calinski_harabasz_score is : 22.406378979737326 higher Is better
+End Of WOA Clustering
+PS D:\7.PythonProjects\Mohammadi> & "C:/Program Files/Python36/python.exe" d:/7.PythonProjects/Mohammadi/src/WOAClustering.py
+indexData: 998, User_ID: 1804909
+ Batch Number :  1
+InitAgents
+indexData: 1997, User_ID: 1362767
+ Batch Number :  2
+indexData: 2996, User_ID: 4773172
+ Batch Number :  3
+indexData: 3995, User_ID: 3781489
+indexData: 4994, User_ID: 3338407
+ Batch Number :  5
+indexData: 5993, User_ID: 7440610
+ Batch Number :  6
+indexData: 6992, User_ID: 2576253
+ Batch Number :  7
+indexData: 7991, User_ID: 1237551
+ Batch Number :  8
+indexData: 8990, User_ID: 7550006
+ Batch Number :  9
+indexData: 9989, User_ID: 8488111
+ Batch Number :  10
+For n_clusters = 7 The silhouette_score is : -0.832918549605967
+For n_clusters = 7 The bouldin_score is : 11.01591006446836 lower Is better
+For n_clusters = 7 The calinski_harabasz_score is : 29.38468964165951 higher Is better
+End Of WOA Clustering
+PS D:\7.PythonProjects\Mohammadi> & "C:/Program Files/Python36/python.exe" d:/7.PythonProjects/Mohammadi/src/WOAClustering.py
+indexData: 998, User_ID: 3314599
+ Batch Number :  1
+InitAgents
+indexData: 1997, User_ID: 4552916
+ Batch Number :  2
+indexData: 2996, User_ID: 2576911
+ Batch Number :  3
+indexData: 3995, User_ID: 5579308
+indexData: 4994, User_ID: 1016818
+ Batch Number :  5
+indexData: 5993, User_ID: 2447941
+ Batch Number :  6
+indexData: 6992, User_ID: 2822599
+ Batch Number :  7
+indexData: 7991, User_ID: 8408741
+ Batch Number :  8
+indexData: 8990, User_ID: 9824549
+ Batch Number :  9
+indexData: 9989, User_ID: 8939113
+ Batch Number :  10
+For n_clusters = 9 The silhouette_score is : -0.15501965077124938
+For n_clusters = 9 The bouldin_score is : 10.03901559472832 lower Is better
+For n_clusters = 9 The calinski_harabasz_score is : 65.55125195140626 higher Is better
+End Of WOA Clustering
+PS D:\7.PythonProjects\Mohammadi> & "C:/Program Files/Python36/python.exe" d:/7.PythonProjects/Mohammadi/src/WOAClustering.py
+indexData: 998, User_ID: 4192113
+ Batch Number :  1
+InitAgents
+indexData: 1997, User_ID: 4981995
+ Batch Number :  2
+indexData: 2996, User_ID: 1043921
+ Batch Number :  3
+indexData: 3995, User_ID: 3342497
+indexData: 4994, User_ID: 5213228
+ Batch Number :  5
+indexData: 5993, User_ID: 1011597
+ Batch Number :  6
+indexData: 6992, User_ID: 9876465
+ Batch Number :  7
+indexData: 7991, User_ID: 8100276
+ Batch Number :  8
+indexData: 8990, User_ID: 3552828
+ Batch Number :  9
+indexData: 9989, User_ID: 6633174
+ Batch Number :  10
+For n_clusters = 11 The silhouette_score is : -0.16658643255914535
+For n_clusters = 11 The bouldin_score is : 9.461886091434273 lower Is better
+For n_clusters = 11 The calinski_harabasz_score is : 44.599146227118574 higher Is better
+End Of WOA Clustering
+PS D:\7.PythonProjects\Mohammadi> & "C:/Program Files/Python36/python.exe" d:/7.PythonProjects/Mohammadi/src/WOAClustering.py
+indexData: 998, User_ID: 1117948
+ Batch Number :  1
+InitAgents
+indexData: 1997, User_ID: 2261957
+ Batch Number :  2
+indexData: 2996, User_ID: 8792186
+ Batch Number :  3
+indexData: 3995, User_ID: 9616952
+ Batch Number :  4
+indexData: 4994, User_ID: 8677707
+ Batch Number :  5
+indexData: 5993, User_ID: 8845240
+ Batch Number :  6
+indexData: 6992, User_ID: 8329321
+ Batch Number :  7
+indexData: 7991, User_ID: 3500487
+ Batch Number :  8
+indexData: 8990, User_ID: 3050574
+ Batch Number :  9
+indexData: 9989, User_ID: 5519794
+ Batch Number :  10
+For n_clusters = 13 The silhouette_score is : 0.1794016821712322
+For n_clusters = 13 The bouldin_score is : 9.982869564747197 lower Is better
+For n_clusters = 13 The calinski_harabasz_score is : 94.9419012228559 higher Is better
+End Of WOA Clustering
+PS D:\7.PythonProjects\Mohammadi>

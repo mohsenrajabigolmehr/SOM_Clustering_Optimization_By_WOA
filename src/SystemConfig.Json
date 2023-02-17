@@ -1,0 +1,6 @@
+{
+    "SQLServerConnectionStrings":{
+        "Hotel_Recommender_By_WOA": "Server=.;Database=Hote_Recommender_By_WOA;UID=sa;PWD=bb@@11",
+        "Emotions": "Server=.;Database=Emotions;UID=sa;PWD=bb@@11"
+    }
+}
